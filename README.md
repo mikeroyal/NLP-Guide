@@ -32,7 +32,7 @@
 
 8. [Python Development](https://github.com/mikeroyal/NLP-Guide#python-development)
 
-9. [Java Development](https://github.com/mikeroyal/NLP-Guide#r-development)
+9. [Java Development](https://github.com/mikeroyal/NLP-Guide#java-development)
 
 10. [R Development](https://github.com/mikeroyal/NLP-Guide#r-development)
 
@@ -42,7 +42,7 @@
 # NLP Learning Resources
 [Back to the Top](https://github.com/mikeroyal/NLP-Guide#table-of-contents)
 
-[Natural Language Processing (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing) is a branch of artificial intelligence (AI) focused on giving computers the ability to understand text and spoken words in much the same way human beings can. NLP combines computational linguistics—rule-based modeling of human language with statistical, machine learning, and deep learning models.
+[Natural Language Processing (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing) is a branch of artificial intelligence (AI) focused on giving computers the ability to understand text and spoken words in much the same way human beings can. NLP combines computational linguistics rule-based modeling of human language with statistical, machine learning, and deep learning models.
 
 [Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
 
