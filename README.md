@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/131386286-e23991d5-a1aa-4ee9-9582-874dc0854c1a.png">
   <br />
  Natural Language Processing (NLP) Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
 
 <p align="center">
- <img src="">
+ <img src="https://user-images.githubusercontent.com/45159366/131386296-7fc72332-fb40-421c-82e1-76be7acc6307.png">
   <br />
 </p>
 
