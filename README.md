@@ -117,6 +117,12 @@
 
 [Tensorflow_macOS](https://github.com/apple/tensorflow_macos) is a Mac-optimized version of TensorFlow and TensorFlow Addons for macOS 11.0+ accelerated using Apple's ML Compute framework.
 
+[TensorFlow Model Optimization Toolkit](https://www.tensorflow.org/model_optimization) is a suite of tools that users, both novice and advanced, can use to optimize machine learning models for deployment and execution. It provides supported techniques that include quantization and pruning for sparse weights. Along with APIs built specifically for Keras.
+
+[DeepSpars](https://github.com/neuralmagic/deepsparse) is an inference runtime offering GPU-class performance on CPUs and APIs to integrate ML into your application.
+
+[Intel® Neural Compressor](https://github.com/intel/neural-compressor) is a Low Precision Optimization Tool, targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance. 
+
 [Keras](https://keras.io) is a high-level neural networks API, written in Python and capable of running on top of TensorFlow, CNTK, or Theano.It was developed with a focus on enabling fast experimentation. It is capable of running on top of TensorFlow, Microsoft Cognitive Toolkit, R, Theano, or PlaidML.
 
 [PyTorch](https://pytorch.org) is a library for deep learning on irregular input data such as graphs, point clouds, and manifolds. Primarily developed by Facebook's AI Research lab.
