@@ -16,7 +16,10 @@
 
 # Table of Contents
 
-1. [Natural Language Processing (NLP) Learning Resources](https://github.com/mikeroyal/NLP-Guide#NLP-learning-resources)
+1. [Getting Started with Natural Language Processing (NLP)](https://github.com/mikeroyal/NLP-Guide#getting-started-with-NLP)
+
+   * [Developer Resources](#Developer-Resources)
+   * [NLP Training Courses & Certifications](#NLP-Training-Courses--Certifications)
 
 2. [Natural Language Processing (NLP) Tools, Libraries, and Frameworks](https://github.com/mikeroyal/NLP-Guide#NLP-tools-libraries-and-frameworks)
 
@@ -39,10 +42,13 @@
 11. [Julia Development](https://github.com/mikeroyal/NLP-Guide#julia-development)
 
 
-# NLP Learning Resources
-[Back to the Top](https://github.com/mikeroyal/NLP-Guide#table-of-contents)
+# Getting Started with NLP 
+
+[Back to the Top](#table-of-contents)
 
 [Natural Language Processing (NLP)](https://www.ibm.com/cloud/learn/natural-language-processing) is a branch of artificial intelligence (AI) focused on giving computers the ability to understand text and spoken words in much the same way human beings can. NLP combines computational linguistics rule-based modeling of human language with statistical, machine learning, and deep learning models.
+
+### Developer Resources
 
 [Natural Language Processing With Python's NLTK Package](https://realpython.com/nltk-nlp-python/)
 
@@ -51,6 +57,9 @@
 [Artificial Intelligence Services - Amazon Web Services (AWS)](https://aws.amazon.com/machine-learning/ai-services/)
 
 [Google Cloud Natural Language API](https://cloud.google.com/natural-language/docs/reference/rest)
+
+
+### NLP Training Courses & Certifications
 
 [Top Natural Language Processing Courses Online | Udemy](https://www.udemy.com/topic/natural-language-processing/)
 
